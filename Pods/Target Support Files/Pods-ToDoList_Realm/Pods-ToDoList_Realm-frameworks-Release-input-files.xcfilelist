@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ToDoList_Realm/Pods-ToDoList_Realm-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
